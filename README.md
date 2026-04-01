@@ -1,2 +1,2 @@
-# Beshbarmak-Brigade
+# Beshbarmaq-Brigade
 top-down shooter
