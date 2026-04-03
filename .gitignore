@@ -1,32 +1,33 @@
 # ===================================================================
 # Unity 6.3 URP 3D (PC) - .gitignore
+# Works with project in subfolder structure
 # ===================================================================
 
 # -----------------------------------------------
 # Unity generated folders & files
 # -----------------------------------------------
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # -----------------------------------------------
 # Memory Profiler snapshots
 # -----------------------------------------------
-/[Mm]emoryCaptures/
+[Mm]emoryCaptures/
 
 # -----------------------------------------------
 # Recordings (Unity Recorder / screen captures)
 # -----------------------------------------------
-/[Rr]ecordings/
+[Rr]ecordings/
 
 # -----------------------------------------------
 # Asset Import Worker database
 # -----------------------------------------------
-/[Aa]ssets/AssetStoreTools*
+[Aa]ssets/AssetStoreTools*
 
 # -----------------------------------------------
 # Auto-generated VS / Rider solution and project files
@@ -65,7 +66,6 @@ ExportedObj/
 
 # Windows build artifacts
 *.exe
-*.dll
 !Assets/Plugins/**/*.dll
 
 # -----------------------------------------------
@@ -77,24 +77,24 @@ sysinfo.txt
 # -----------------------------------------------
 # Gradle (not needed for PC but just in case)
 # -----------------------------------------------
-/[Aa]ssets/Plugins/Android/gradleOut/
+[Aa]ssets/Plugins/Android/gradleOut/
 
 # -----------------------------------------------
 # Addressables (generated)
 # -----------------------------------------------
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # -----------------------------------------------
 # TextMeshPro (auto-generated; re-import if needed)
 # -----------------------------------------------
-/[Aa]ssets/[Tt]ext[Mm]esh Pro/
+[Aa]ssets/[Tt]ext[Mm]esh Pro/
 
 # -----------------------------------------------
 # Plastic SCM (Unity VCS)
 # -----------------------------------------------
-/[Aa]ssets/Plugins/PlasticSCM*
+[Aa]ssets/Plugins/PlasticSCM*
 ignore.conf
 *.private.0
 *.private
@@ -111,11 +111,7 @@ ignore.conf
 *.DotSettings.user
 
 # VS Code
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 # -----------------------------------------------
 # OS generated files
@@ -147,22 +143,16 @@ $RECYCLE.BIN/
 .directory
 
 # -----------------------------------------------
-# Nuget packages (if using NuGetForUnity)
-# -----------------------------------------------
-/[Aa]ssets/[Pp]ackages/
-!/[Aa]ssets/[Pp]ackages/*.meta
-
-# -----------------------------------------------
 # Shader cache & compiled variants
 # -----------------------------------------------
-/[Aa]ssets/[Ss]hader[Cc]ache/
+[Ss]hader[Cc]ache/
 
 # -----------------------------------------------
 # Code coverage results
 # -----------------------------------------------
-/[Cc]ode[Cc]overage/
+[Cc]ode[Cc]overage/
 
 # -----------------------------------------------
 # Burst AOT cache
 # -----------------------------------------------
-/[Aa]ssets/[Ss]treamingAssets/burst.metadata
+[Ss]treamingAssets/burst.metadata
