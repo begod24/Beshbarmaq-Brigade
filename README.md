@@ -1,10 +1,10 @@
-# 🍖 Beshbarmak Brigade
+# Beshbarmak Brigade
 
 > **Helldivers meets mutant Kazakh cuisine.** A 2–4 player co-op top-down shooter where a squad of Kazakh fighters battles grotesque food-creatures that have invaded Kazakhstan from a parallel dimension.
 
 ---
 
-## 🎮 Overview
+## Overview
 
 **Genre:** Top-Down Co-op Shooter  
 **Players:** 2–4 (Online / LAN)  
@@ -17,7 +17,7 @@ A failed dimensional ritual called the **Dastarkhan Collapse** fused food, folkl
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Fast Arcade Co-op** — Drop in, fight through compact missions, extract. Easy to learn, hard to master.
 - **Kazakh Cultural Identity** — Humor, folklore motifs, and recognizable traditional dishes turned into terrifying biomass monsters.
@@ -28,7 +28,7 @@ A failed dimensional ritual called the **Dastarkhan Collapse** fused food, folkl
 
 ---
 
-## 👹 Enemy Faction: The Brothborn
+## Enemy Faction: The Brothborn
 
 | Enemy | Role | Behavior |
 |---|---|---|
@@ -44,21 +44,7 @@ A failed dimensional ritual called the **Dastarkhan Collapse** fused food, folkl
 **Bosses:** The Great Kazan (cauldron warlord), Qazy Khan (armored sausage knight), Lady Shorpa (summons broth pools), The Doughmaker (endless spawner).
 
 ---
-
-## 🎖️ Playable Heroes
-
-| Hero | Role | Playstyle |
-|---|---|---|
-| **Batyr** | Rifleman | Balanced, beginner-friendly |
-| **Aruzhan** | Scout | Mobile dual-pistol |
-| **Serik Tech** | Specialist | Traps, drones, gadgets |
-| **Aksaul Shield** | Tank | Frontline crowd control |
-
-Future unlocks: Sniper, Medic/Shaman, Shotgun Demolitionist, Melee Blade Hero.
-
----
-
-## 🔁 Gameplay Loop
+## Gameplay Loop
 
 ```
 Deploy → Clear Rooms → Complete Objectives → Extract → Earn Rewards → Upgrade → Next Mission
@@ -70,7 +56,7 @@ Deploy → Clear Rooms → Complete Objectives → Extract → Earn Rewards → 
 
 ---
 
-## 🗺️ Missions
+## Missions
 
 | # | Mission | Setting |
 |---|---|---|
@@ -82,7 +68,7 @@ Deploy → Clear Rooms → Complete Objectives → Extract → Earn Rewards → 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Unity 6 LTS** with **URP**
 - **New Input System** (dual PC + Mobile support)
@@ -97,7 +83,7 @@ Deploy → Clear Rooms → Complete Objectives → Extract → Earn Rewards → 
 
 ---
 
-## 📋 MVP Scope
+## MVP Scope
 
 The first playable build includes:
 
@@ -111,7 +97,7 @@ The first playable build includes:
 
 ---
 
-## 🗓️ Roadmap
+## Roadmap
 
 | Phase | Duration | Deliverables |
 |---|---|---|
@@ -123,26 +109,3 @@ The first playable build includes:
 | Release | — | Patches, balance, content updates |
 
 ---
-
-## 🎨 Art Direction
-
-- **Palette:** Warm reds, dough yellows, broth greens, steppe sky blues
-- **Style:** Stylized low-poly / semi-toony with hand-painted textures
-- **Enemies:** Exaggerated magical dish-creatures — corrupted biomass, not literal food
-- **Environment:** Distorted yurts, corrupted dastarkhan rituals, broth rivers, floating spices, giant ladles
-- **Kazakh Motifs:** Armor patterns, UI borders, banners, ability icons
-
----
-
-## 📜 Lore Rules
-
-1. Food monsters are **corrupted biomass** born from ritual-tech, not literal food.
-2. Each region has its own variant of culinary monsters.
-3. Humor sits on top, but the world follows internal rules.
-4. The invasion spreads by **"marinating" zones** with dimensional broth and steam storms.
-
----
-
-**Current Phase:** Pre-production  
-**Team:** TBD  
-**License:** All rights reserved
